@@ -43,6 +43,6 @@
     <ItemGroup>
         <PackageReference Include="Soenneker.Together.HttpClients" Version="4.0.93" />
         <PackageReference Include="Soenneker.Together.OpenApiClient" Version="4.0.72" />
-        <PackageReference Include="Soenneker.Utils.AsyncSingleton" Version="4.0.829" />
+        <PackageReference Include="Soenneker.Utils.AsyncSingleton" Version="4.0.830" />
     </ItemGroup>
 </Project>
