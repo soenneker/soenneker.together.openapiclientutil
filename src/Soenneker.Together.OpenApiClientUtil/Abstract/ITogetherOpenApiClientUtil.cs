@@ -8,10 +8,10 @@ namespace Soenneker.Together.OpenApiClientUtil.Abstract;
 /// <summary>
 /// Exposes a cached OpenAPI client instance.
 /// </summary>
-public interface ITogetherOpenApiClientUtil: IDisposable, IAsyncDisposable
+public interface ITogetherOpenApiClientUtil : IDisposable, IAsyncDisposable
 {
     /// <summary>
-    /// Gets the value.
+    /// Gets the cached Together AI OpenAPI client.
     /// </summary>
     /// <param name="cancellationToken">The cancellation token.</param>
     /// <returns>A task containing the result of the operation.</returns>

@@ -6,7 +6,7 @@ using Soenneker.Together.OpenApiClientUtil.Abstract;
 namespace Soenneker.Together.OpenApiClientUtil.Registrars;
 
 /// <summary>
-/// Registers the OpenAPI client utility for dependency injection.
+/// Registers cached access to the Together AI OpenAPI client.
 /// </summary>
 public static class TogetherOpenApiClientUtilRegistrar
 {
